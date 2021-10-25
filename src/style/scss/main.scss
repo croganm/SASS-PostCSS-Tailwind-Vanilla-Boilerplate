@@ -1,0 +1,11 @@
+@import url("tailwindcss/base");
+@import url("tailwindcss/components");
+@import url("tailwindcss/utilities");
+
+h1 {
+    color: red;
+    background: blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
